@@ -1,0 +1,74 @@
+[
+    {
+        "CÓDIGO": "10017759",
+        "TRANSPORTADORA": "CASAGRANDE",
+        "NOME": "CASSIANO CASAGRANDE ME",
+        "EMAIL": [
+            "diogo@grupocasagrande.net",
+            "yhandracaroliny@grupocasagrande.net",
+            "analista@grupocasagrande.net"
+        ]
+    },
+    {
+        "CÓDIGO": "10138254",
+        "TRANSPORTADORA": "FERRAZLOG",
+        "NOME": "FERRAZLONG LOCACOES E SERVICOS EIRE",
+        "EMAIL": [
+            "operacional@ferrazflorestal.com.br",
+            "financeiro@ferrazflorestal.com.br"
+        ]
+    },
+    {
+        "CÓDIGO": "10136128",
+        "TRANSPORTADORA": "FORT AGIUS",
+        "NOME": "BRUNA DOS SANTOS DE OLIVEIRA TRANSP",
+        "EMAIL": [
+            "administrativo@fortagius.com",
+            "fretes@fortagius.com"
+        ]
+    },
+    {
+        "CÓDIGO": "10134542",
+        "TRANSPORTADORA": "KTHA",
+        "NOME": "K THA TRANSPORTES PESADOS EIRELI",
+        "EMAIL": [
+            "lauriana@kthatransportes.com.br",
+            "faturamento@kthatransportes.com.br"
+        ]
+    },
+    {
+        "CÓDIGO": "10134713",
+        "TRANSPORTADORA": "MACPLAN",
+        "NOME": "MACPLAN TERRAPLANAGEM E LOCACOES LT",
+        "EMAIL": [
+            "diogo.viana@macplan.com.br",
+            "lucas.rafael@macplan.com.br"
+        ]
+    },
+    {
+        "CÓDIGO": "10137182",
+        "TRANSPORTADORA": "PESADÃO",
+        "NOME": "CLAYTON ADRIANO CAVALHEIRO 29190748",
+        "EMAIL": [
+            "julialopesaraujo@hotmail.com"
+        ]
+    },
+    {
+        "CÓDIGO": "10002994",
+        "TRANSPORTADORA": "RIACHO",
+        "NOME": "RIACHO FLORESTAL E PARTICIPACOES LT",
+        "EMAIL": [
+            "valdilessa.silva@riachoflorestal.com.br"
+        ]
+    },
+    {
+        "CÓDIGO": "10140344",
+        "TRANSPORTADORA": "WHP",
+        "NOME": "ROSELI CRISTINA BASSETTO RIBEIRO",
+        "EMAIL": [
+            "whpforest@gmail.com",
+            "mariajulia@whpflorestal.com.br",
+            "ALINERIBEIRO@WHPFLORESTAL.COM.BR"
+        ]
+    }
+]
