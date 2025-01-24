@@ -8,7 +8,7 @@ if "pagina_atual" not in st.session_state:
     st.session_state["pagina_atual"] = "Página Inicial"
 
 # Adicione seu token pessoal do GitHub aqui (certifique-se de mantê-lo seguro!)
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = "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"
 REPO_NAME = "Scsant/dadosPrancha"
 FILE_PATH = "programacaoRealizada.json"
 
